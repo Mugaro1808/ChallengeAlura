@@ -1,0 +1,3 @@
+Este proyecto es un conversor de monedas simple pero eficiente, desarrollado en Java y configurado en IntelliJ IDEA. La aplicación utiliza una API de tasas de cambio en tiempo real para convertir cantidades entre diferentes monedas, proporcionando resultados precisos y actualizados. El usuario puede ingresar la moneda de origen, la moneda de destino y la cantidad a convertir, y la aplicación devuelve el valor convertido.
+
+El proyecto está diseñado con una estructura modular que permite una fácil integración de otras APIs o características adicionales, lo que lo convierte en una excelente herramienta para aprender o ampliar tus habilidades en el manejo de APIs y desarrollo de aplicaciones en Java.
